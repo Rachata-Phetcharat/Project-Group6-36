@@ -1,0 +1,51 @@
+/** ADD YOUR AWESOME CODES HERE **/
+@media (max-width: 600px) {
+    .map {
+        width: 100%;
+    }
+}
+/*
+@media (min-width: 992px) {
+	.container-fluid { max-width: 992px; }
+	.tm-sidebar {
+		float: left;
+		width: 260px;
+	}
+
+	.tm-sidebar.sticky {
+		position: fixed;
+		top: 20px;
+	}
+
+	.tm-main-content { margin-left: 290px; }
+	.tm-box-pad { padding: 30px; }
+	.grid { margin: -1.5rem auto -1.5rem 0;	}
+}
+
+@media (min-width: 1200px) {
+	.container-fluid { max-width: 1200px; }
+	.tm-sidebar { width: 340px;	}
+	.tm-nav-item-link { padding: 12px; }
+	.tm-main-content { margin-left: 370px; }
+	.tm-section-title { margin-bottom: 20px; }
+	.tm-box-pad { padding: 45px; }
+}
+
+@media (min-width: 1400px) {
+	.container-fluid { max-width: 1605px; }
+	.tm-sidebar { width: 360px; }
+	.media-body { height: 348px; }
+	.tm-main-content { margin-left: 415px; }
+	.tm-section-title { margin-bottom: 30px; }
+}
+
+.tm-body {
+	margin-top: 20px;
+	position: relative;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.tm-gallery-container {	overflow-y: hidden; }
+
+.grid-item { margin: 5px; } */

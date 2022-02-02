@@ -42,7 +42,8 @@
 
                             @foreach ($headers as $header)
                                 <div class="pogoSlider-slide"
-                                    style="background-image:url({{ asset('admin/images/' . $header->image) }});" width-"100%">
+                                    style="background-image:url({{ asset('admin/images/' . $header->image) }});"
+                                    width-"100%">
                                     <div class="container">
                                         <div class="row">
                                             <div class="col-md-12">
@@ -192,9 +193,7 @@
                                         </p>
                                         <p>
                                             4.ผ้าม่านที่มีลวดลายเล็กๆ ให้ผลตรงข้ามกัน เพราะจะช่วยให้ห้องดูกว้างขึ้น
-                                        </p>
-                                        <p>
-                                            5.จึงมักใช้ในห้องขนาดเล็กหรือห้องชุดคอนโดมิเนียมเป็นส่วนใหญ่
+                                            จึงมักใช้ในห้องขนาดเล็กหรือห้องชุดคอนโดมิเนียมเป็นส่วนใหญ่
                                         </p>
                                     </h5>
                                 </div>
